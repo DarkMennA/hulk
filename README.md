@@ -9,7 +9,9 @@ pkg install python2
 
 git clone https://github.com/DarkMennA/hulk
 
-chmod +x hulk.py
+cd hulk
+
+hmod +x hulk.py
 
 Usage:- 
 
